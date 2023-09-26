@@ -11,3 +11,5 @@ The data indicate geomagnetic storms of G3 and greater are rare and G3 storms ar
 
 ## Conclusions
 SC25, the current solar cycle, is expected to peak early at the end of 2024. Max sunspot number (SSN), and indicator of activity, has already surpassed max sunspot number of SC24, the previous cycle. SSN for SC24 peaked at 146.1 in Feb 2014. So far the peak of SC25 was in Jun 2023 with a SSN of 163.4. At this time it is uncertain if the peak of SC25 has been reached even earlier than forecast. Typically a peak cannot be determined retrospectively until several years after the proposed max once activity begins to decline.
+
+Last updated: Sep 2023

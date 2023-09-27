@@ -1,6 +1,8 @@
 # Frequency of Geomagnetic Storms for Solar Cycle 24
 This analysis looks at the frequency of geomagnetic storms for solar cycle (SC) 24.
 
+[Click here to access notebook file.](https://github.com/sunnysidedenver/swpc_sc24/blob/main/SC24%20Analytics.ipynb)
+
 ## Data
 Three-hour Kp values were pulled from GFZ Potsdam from Jan 1, 2009 - Jan 1, 2020. GFZ Potsdam is the offical source for Kp data. 
 

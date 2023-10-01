@@ -2,6 +2,7 @@
 This analysis looks at the frequency and magnitude of geomagnetic storms for solar cycle (SC) 24.
 
 [Click here to access notebook file.](https://github.com/sunnysidedenver/swpc_sc24/blob/main/SC24%20Analytics.ipynb)
+Perfomance metrics and visualizations are outputed here.
 
 ## Purpose
 

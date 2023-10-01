@@ -11,10 +11,12 @@ Kp data are not locally archived or easily accessible for forecasters at SWPC. I
 ## Data
 Three-hour Kp values were pulled from [GFZ Potsdam](https://www.gfz-potsdam.de/en/section/geomagnetism/data-products-services/geomagnetic-kp-index) from Jan 1, 2009 - Jan 1, 2020. GFZ Potsdam is the offical source for Kp data. 
 
-![Solar Cycle 24](https://github.com/sunnysidedenver/swpc_sc24/blob/main/Ref%201.png) 
+![SC24](https://github.com/sunnysidedenver/swpc_sc24/blob/main/Ref%201.png) 
 
 ## Analysis
 The data indicate geomagnetic storms of G3 and greater are rare and G3 storms are infrequent -- just a handful in an 11 year period. There were no G5 events this SC. 
+
+![Geomag Freq SC24](https://github.com/sunnysidedenver/swpc_sc24/blob/main/geomag_freq1.png)
 
 ## Conclusions
 SC25, the current solar cycle, is expected to peak early at the end of 2024. Max sunspot number (SSN), an indicator of activity, has already surpassed max sunspot number of SC24, the previous cycle. SSN for SC24 peaked at 146.1 in Feb 2014. So far the peak of SC25 was in Jun 2023 with a SSN of 163.4. At this time it is uncertain if the peak of SC25 has been reached even earlier than forecast. Typically a peak cannot be determined retrospectively until several years after the proposed max once activity begins to decline. Even if this cycle ends up seeing another surge in activity with say double the number of G3 and greater storms than SC24, these events would still be rare, especially G4-G5. G5 will be even more rare this SC because a Kp9z is needed instead of a Kp9m, which now translates to a G4.

@@ -8,7 +8,7 @@ This analysis looks at the frequency and magnitude of geomagnetic storms for sol
 Kp data are not locally archived or easily accessible for forecasters at SWPC. It is important for forecasters to understand how likely or unlikely geomagnetic storms are of a certain magnitude in order to make more informed forecast decisions, specifically when issuing geomagnetic storm watches. This analysis will help support that decision-making.
 
 ## Data
-Three-hour Kp values were pulled from GFZ Potsdam from Jan 1, 2009 - Jan 1, 2020. GFZ Potsdam is the offical source for Kp data. 
+Three-hour Kp values were pulled from [GFZ Potsdam](https://www.gfz-potsdam.de/en/section/geomagnetism/data-products-services/geomagnetic-kp-index) from Jan 1, 2009 - Jan 1, 2020. GFZ Potsdam is the offical source for Kp data. 
 
 ![Solar Cycle 24](https://github.com/sunnysidedenver/swpc_sc24/blob/main/Ref%201.png) 
 
